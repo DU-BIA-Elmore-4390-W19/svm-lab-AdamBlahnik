@@ -1,11 +1,11 @@
 ---
 title: "Untitled"
-author: "Your Name Goes Here"
+author: "Adam Blahnik"
 date: "3/5/2019"
 output: github_document
 ---
 
-```{r setup, include=FALSE}
+```{r setup, include = FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
